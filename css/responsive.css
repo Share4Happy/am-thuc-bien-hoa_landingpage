@@ -733,6 +733,12 @@
         font-size: 1.25rem;
     }
 
+    .footer-copyright {
+        margin-top: 20px;
+        font-size: 0.82rem;
+        padding: 0 16px;
+    }
+
     /* Floating Hotline */
     .floating-call {
         bottom: 18px;

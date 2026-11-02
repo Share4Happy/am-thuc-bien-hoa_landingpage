@@ -87,6 +87,14 @@
     border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
+.footer-copyright {
+    margin-top: 24px;
+    font-size: 0.88rem;
+    color: rgba(229, 221, 215, 0.75);
+    letter-spacing: 0.3px;
+    text-align: center;
+}
+
 /* Floating Hotline */
 .floating-call {
     position: fixed;
